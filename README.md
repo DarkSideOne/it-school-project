@@ -1,1 +1,1 @@
-# it-school-project
+This is my first github project for IT SCHOOL
